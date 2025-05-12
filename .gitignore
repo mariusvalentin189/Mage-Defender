@@ -75,7 +75,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Folders
-Mage Defender
+Build
 
 # vs config file
 .vsconfig
